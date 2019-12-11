@@ -10,8 +10,8 @@ The diamond language is highly based off of pascal, so it has a lot of the same 
 software Main;
 vi x, y : integer;
 start { Main }
-   y := 7;
-   x := (y + 3) * 3;
+   y = 7;
+   x = (y + 3) * 3;
 finish.  { Main }
 ```
 
