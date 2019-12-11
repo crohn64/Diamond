@@ -65,7 +65,7 @@ class TokenType(Enum):
     ID            = 'ID'
     INTEGER_CONST = 'INTEGER_CONST'
     REAL_CONST    = 'REAL_CONST'
-    ASSIGN        = ':='
+    ASSIGN        = '='
     EOF           = 'EOF'
 
 
