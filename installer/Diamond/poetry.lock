@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Pure Python SPI Interface using spidev"
+name = "spi"
+optional = false
+python-versions = "*"
+version = "0.2.0"
+
+[metadata]
+content-hash = "8d1f31e5c598b4c17422bc9d7dfcd6c157de683de9d147da9be7d3f1012edaa8"
+python-versions = "^3.7"
+
+[metadata.hashes]
+spi = ["bae38a6b26a9a3be8df13a635f8aba8ce8c480086c9d94f5166f3dc9bb879cda"]
