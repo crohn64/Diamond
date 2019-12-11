@@ -1,2 +1,2 @@
 # Diamond
-![Diamond logo](/images/logo.png)
+![Diamond logo](/images/logo.PNG)
