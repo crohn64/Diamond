@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/crohn64/Diamond)](https://repl.it/github/crohn64/Diamond)
 # Diamond Programming Language
 ![Diamond logo](/images/logo.PNG)
 
