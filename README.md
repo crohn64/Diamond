@@ -20,3 +20,5 @@ If you are using Diamond V1.0 you will have to use y := 7;
 
 *What will be in the future?*
 I have many plans for diamond in the future. The first is to add more functions that will help a lot in making programs, like input() or print().A friend of mine is also working on server librarys for the language.
+
+[![Run on Repl.it](https://repl.it/badge/github/crohn64/Diamond)](https://repl.it/github/crohn64/Diamond)
