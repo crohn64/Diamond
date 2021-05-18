@@ -1,0 +1,2 @@
+language = "python3"
+run = "python Diamond/dia.py --stack Diamond/main.d"
