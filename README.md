@@ -1,6 +1,7 @@
 # Diamond Programming Language
 ![Diamond logo](/images/logo.PNG)
 
+Note: Diamond is no longer in development. Please check out steel, our new programming language.
 *Setting up:*
 To install diamond onto your computer, download the installer folder. After that run install.bat, to get diamond installed once installed go to cmd and type ```python C:\diamond\dia.py -h``` for help. To run code type ```python C:\diamond\dia.py [file location here]```. After everything is done there is a test script at C:\diamond\main.d. Run that, and if it succeeds, you have installed diamond succesfully.
 
